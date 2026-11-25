@@ -1,4 +1,4 @@
-# Atividade X — Nome da atividade
+# Atividade 2 — Sistema de alarme
 
 ## Plataforma e link
 
